@@ -22,15 +22,15 @@
     "@bgotink/playwright-coverage": "^0.3.2",
     "@playwright/test": "1.55.0",
     "@sidewinder1138/saml-idp": "^1.4.0",
-    "dayjs": "^1.11.18",
+    "dayjs": "^1.11.19",
     "jsqr": "1.4.0",
     "jwt-decode": "^4.0.0",
     "md5": "^2.3.0",
     "otplib": "^12.0.1",
     "pixelmatch": "^7.1.0",
     "pngjs": "7.0.0",
-    "typescript": "^5.9.2",
-    "uuid": "^11.1.0",
-    "yaml": "^2.8.1"
+    "typescript": "^5.9.3",
+    "uuid": "^13.0.0",
+    "yaml": "^2.8.2"
   }
 }
