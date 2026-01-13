@@ -7,7 +7,7 @@ chardet==5.2.0
 cryptography==45.0.7
 docker==7.1.0
 execnet==2.1.1
-filelock==3.19.1
+filelock==3.20.3
 idna==3.10
 iniconfig==2.1.0
 kubernetes==33.1.0
