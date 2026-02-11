@@ -3,7 +3,7 @@ boto3==1.40.21
 certifi >= 14.05.14
 chardet >= 4.0.0
 crypto
-cryptography==45.0.7
+cryptography==46.0.5
 docker==7.1.0
 flaky==3.8.1
 flask
