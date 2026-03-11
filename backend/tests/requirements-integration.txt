@@ -4,7 +4,7 @@ boto3==1.40.21
 certifi==2025.8.3
 cffi==1.17.1
 chardet==5.2.0
-cryptography==45.0.7
+cryptography==46.0.5
 docker==7.1.0
 execnet==2.1.1
 filelock==3.19.1
